@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Base.Theme.KakaoClone" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="Theme.KakaoClone" parent="Base.Theme.KakaoClone">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
